@@ -208,7 +208,21 @@ width: 90px;
                   >weidth
                   >margin*/
 
+/*ANS:                                                                       */
+
+
+/*           ------------------------- CONTACT PAGE CSS -------------------------------------*/
+aside#sidebarcontact{
+    margin-left: 150px;
+    float:left;
+    width:30%;
+    margin-top:10px;
+    color:#ffffff;
+}
+
+/*FEED BACK ASIDE */
 aside#sidebar{
+    margin-right: 150px;
   float:right;
   width:30%;                          /*ANS:                                   */
   margin-top:10px;
@@ -217,14 +231,13 @@ aside#sidebar{
 
 
 
+/*---------------------------------------------------------------------------*/
+
 /* about us data paragraph Allignmnet**/
 .artical#main-col{
   float:left;
   width:65%;
 }
-
-
-
 /* SERVISES */
 /* MAKES BOXEX AROUND THE TEXT PARAGRAPHES **/
 
