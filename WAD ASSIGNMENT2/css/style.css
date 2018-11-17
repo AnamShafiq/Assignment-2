@@ -22,6 +22,8 @@ background-colour:#f4f4f4;  /*#f4f4f4 light gray*/
   colour:#ffffff;   /*#FFFFF WHITE */
   margin-top:10px;
   margin-bottom: 10px;
+    border-radius: 16px;
+
 }
 header ul{
 margin:0;
@@ -236,7 +238,7 @@ width: 90px;
 
 aside#sidebar{
   float:right;
-  width:30%;                          /*ANS:                                       */
+  width:30%;                          /*ANS:                                   */
   margin-top:10px;
   color:#ffffff;
 }
