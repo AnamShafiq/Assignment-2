@@ -58,6 +58,7 @@ color:#ffffff;   /*#ffffff WHITE*/
     padding-right:20px;
     color:#ffffff;   /*#ffffff WHITE*/
 }
+/* forget button*/
 
 .button_4{
     height:38px;
@@ -248,11 +249,45 @@ ul#servises li{
   margin-bottom:5px;
   background:#e6e6e6;
 }
+/*-------------------------------------------------------------------------------------*/
+                                   /*search bar */
+.search-box{
+    position:absolute;
 
+    left :50%;
+    width:200px; /*weidth of the search box*/
+    transform: translate(-50%,-50%);
+    background:#35424a;
+    height:60px;
+    border-raduis:40px;
+    pading :10px;
+}
+.search-btn{
+    color:#e8491d;
+    float:right;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    background:#35424a;
+    display:flex;
+    justify-content: center;
+    align-items:center;
 
+}
+.search-txt{
+    border:none;
+    background:#35424a ;
+    outline:none;
+    float:left;
+    padding:0;
+    color:white;
+    font-size: 16px;
+    transition:0.4s;
+    line-hight:40px;
+    with:350px;
+}
 
-
-
+/*----------------------------------------------------------------------------------------------*/
 footer{
     padding :20px;
     margin-top:30px;
