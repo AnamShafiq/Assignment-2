@@ -16,7 +16,7 @@ background-colour:#f4f4f4;  /*#f4f4f4 light gray*/
 /* for dark background**/
 
 .dark{
-    border-radius: 15px;
+
   padding:15px;
   background:#35424a; /*#35424a DARK GRAY*/
   colour:#ffffff;   /*#FFFFF WHITE */
@@ -49,7 +49,24 @@ color:#ffffff;   /*#ffffff WHITE*/
     padding-right:20px;
     color:#ffffff;   /*#ffffff WHITE*/
 }
+/*Login Button*/
+.button_3{
+    height:38px;
+    background:#e8491d;  /*#e8491d ORANGE*/
+    border:0;
+    padding-left:20px;
+    padding-right:20px;
+    color:#ffffff;   /*#ffffff WHITE*/
+}
 
+.button_4{
+    height:38px;
+    background:#e8491d;  /*#e8491d ORANGE*/
+    border:0;
+    padding-left:20px;
+    padding-right:20px;
+    color:#ffffff;   /*#ffffff WHITE*/
+}
 /*HEADER**/
 header{
 background:#35424a;   /*#35424a DARK GRAY*/
@@ -154,51 +171,6 @@ margin-top:15px;
 /*NOW THERE IS A TASK FOR ALL OF YOU YOU HAVE TO ENTER THE CORRECT EMAIL AND THE WRONG FORMATED EMAIL IN THE BOX
 AND THEN COMMENT WHAT HAPPEND TO THE PAGE RIGHT IN FROUNT OF THIS CODE*/
 #newsletter input[type="email"]{
-    padding:4px;
-    height:25px;          /*ANS:                */
-    width:250px;
-}
-
-/* REGISTER PAGE BOX*/
-#registerform{
-    padding-top:30px;
-    color:#ffffff;  /*#FFFFFF IS WHITE COLOR*/
-    pading-bottom:30px;
-
-}
-
-
-/*Appling the styling on the form tag used in the html files go visit them */
-
-#registerform form{
-    float:left;
-    margin-top:15px;
-    margin-right:15px;
-    background:#35424a;
-
-}
-
-#registerform input[type="email"]{
-    padding:4px;
-    height:25px;          /*ANS:                */
-    width:250px;
-}
-#registerform input[type="fname"]{
-    padding:4px;
-    height:25px;          /*ANS:                */
-    width:250px;
-}
-#registerform input[type="lname"]{
-    padding:4px;
-    height:25px;          /*ANS:                */
-    width:250px;
-}
-#registerform input[type="password"]{
-    padding:4px;
-    height:25px;          /*ANS:                */
-    width:250px;
-}
-#registerform input[type="confermpassword"]{
     padding:4px;
     height:25px;          /*ANS:                */
     width:250px;
