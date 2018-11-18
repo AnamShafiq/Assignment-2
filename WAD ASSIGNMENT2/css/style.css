@@ -229,6 +229,16 @@ aside#sidebar{
   margin-top:10px;
   color:#ffffff;
 }
+/*sidebar for map in contact page*/
+aside#sidebarmap{
+
+    margin: 150px;
+    float:right;
+    width:30%;                          /*ANS:                                   */
+    margin-top:50px;
+    color:#ffffff;
+
+}
 
 
 
