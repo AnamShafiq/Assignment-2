@@ -259,8 +259,8 @@ ul#servises li{
     transform: translate(-50%,-50%);
     background:#35424a;
     height:60px;
-    border-raduis:40px;
-    pading :10px;
+    border-radius:40px;
+    padding :10px;
 }
 .search-btn{
     color:#e8491d;
@@ -283,8 +283,8 @@ ul#servises li{
     color:white;
     font-size: 16px;
     transition:0.4s;
-    line-hight:40px;
-    with:350px;
+    line-height:40px;
+    width:350px;
 }
 
 /*----------------------------------------------------------------------------------------------*/
