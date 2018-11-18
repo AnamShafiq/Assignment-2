@@ -241,6 +241,16 @@ aside#sidebarmap{
 }
 
 
+aside#sidebar1{
+    margin-right: 150px;
+    float:right;
+    width:30%;                          /*ANS:                                   */
+    margin-top:10px;
+    color:#ffffff;
+}
+
+
+
 
 /*---------------------------------------------------------------------------*/
 
