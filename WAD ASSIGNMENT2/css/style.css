@@ -240,7 +240,7 @@ aside#sidebarmap{
 
 }
 
-
+/*social media links*/
 aside#sidebar1{
     margin-right: 150px;
     float:right;
@@ -248,7 +248,29 @@ aside#sidebar1{
     margin-top:10px;
     color:#ffffff;
 }
+/* in about page for specific questions*/
+aside#sidebar2{
+    margin-right: 150px;
+    float:right;
+    width:30%;                          /*ANS:                                   */
+    margin-top:10px;
+    color:#ffffff;
+}
+aside#sidebar3{
+    margin-right: 150px;
+    float:right;
+    width:30%;                          /*ANS:                                   */
+    margin-top:10px;
+    color:#ffffff;
+}
 
+aside#sidebar4{
+    margin-right: 150px;
+    float:right;
+    width:30%;                          /*ANS:                                   */
+    margin-top:10px;
+    color:#ffffff;
+}
 
 
 
