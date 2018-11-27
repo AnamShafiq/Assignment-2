@@ -330,6 +330,53 @@ ul#servises li{
 }
 
 /*----------------------------------------------------------------------------------------------*/
+
+
+
+/*-------------------------------SEARCH BAR 2 FOR THE Q&A PAGE --------------------------------------------------------------*/
+/*search bar */
+.search-box2{
+    position:absolute;
+
+    right :50px;
+    width:200px; /*weidth of the search box*/
+    transform: translate(-50%,-50%);
+    background:#35424a;
+    height:0%;
+    border-radius:30px;
+
+}
+.search-btn2{
+    color:#e8491d;
+    float:right;
+    width:40px;
+    height:40px;
+    border-radius:50%;
+    background:#35424a;
+    display:flex;
+    padding-right: 1px;
+    justify-content: right;
+    align-items:center;
+
+}
+.search-txt2{
+    border:none;
+    background:#35424a ;
+    outline:none;
+    float:left;
+    padding:0;
+    color:white;
+    font-size: 16px;
+    transition:0.4s;
+    line-height:40px;
+    width:350px;
+}
+
+/*----------------------------------------------------------------------------------------------*/
+
+
+
+
 footer{
     padding :20px;
     margin-top:30px;
@@ -337,4 +384,8 @@ footer{
     background:#e8491d;
     text-align:center;
 }
+
+
+
+
 
